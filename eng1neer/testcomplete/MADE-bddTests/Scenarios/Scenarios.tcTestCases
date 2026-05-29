@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Feature Path="bddAuth.feature" />
+	<Feature Path="bddPayments.feature" />
+	<Feature Path="bddSecurity.feature" />
+</Scenarios>

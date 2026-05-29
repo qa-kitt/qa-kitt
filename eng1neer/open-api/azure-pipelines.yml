@@ -1,0 +1,36 @@
+trigger:
+- development
+- main
+- release/*
+
+resources:
+  repositories:
+    - repository: self
+
+variables:
+  - name: noPush
+    value: $[startsWith(variables['Build.SourceBranch'], 'refs/pull/')] 
+
+jobs:
+- job: publishBlogs
+  displayName: Publish blogs
+  pool: AKS
+  condition: and(succeeded(), ne(variables.noPush, 'True'))
+  steps:
+    - checkout: self
+      submodules: false
+
+    - task: Bash@3
+      name: publishBlogs
+      displayName: Publish blogs
+      inputs:
+        targetType: 'inline'
+        script: 'cp -r . $(Build.ArtifactStagingDirectory)'
+        workingDirectory: '$(Build.SourcesDirectory)'
+
+    - task: PublishBuildArtifacts@1
+      displayName: Publish build artifacts
+      inputs:
+        PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+        ArtifactName: 'blogs-drop'
+        publishLocation: 'Container'

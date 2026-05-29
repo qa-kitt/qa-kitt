@@ -1,0 +1,164 @@
+﻿[
+  {
+    "title": "Intro and Authentication",
+    "hidden": false,
+    "order": 1
+  },
+  {
+    "title": "Maintenance",
+    "hidden": false,
+    "order": 2
+  },
+  {
+    "title": "Behavior Expectations",
+    "hidden": false,
+    "order": 3
+  },
+  {
+    "title": "Data Attribution",
+    "hidden": false,
+    "order": 4
+  },
+  {
+    "title": "FX Endpoint Information",
+    "hidden": false,
+    "order": 5
+  },
+  {
+    "title": "Changelog, New 2023",
+    "hidden": false,
+    "order": 6
+  },
+  {
+    "title": "Intro and Sandbox",
+    "file": "intro-and-sandbox.md",
+    "hidden": false,
+    "order": 7,
+    "parentDoc": "Intro and Authentication"
+  },
+  {
+    "title": "Authentication",
+    "file": "v3-authorization-instructions.md",
+    "hidden": false,
+    "order": 8,
+    "parentDoc": "Intro and Authentication"
+  },
+  {
+    "title": "2022 Scheduled Maintenance",
+    "file": "scheduled-maintenance.md",
+    "hidden": false,
+    "order": 11,
+    "parentDoc": "Maintenance"
+  },
+  {
+    "title": "2023 Scheduled Maintenance",
+    "file": "2023-scheduled-maintenance.md",
+    "hidden": false,
+    "order": 10,
+    "parentDoc": "Maintenance"
+  },
+  {
+    "title": "NOTICE: Extended payment processing for wires",
+    "file": "extended-USD-payment-processing.md",
+    "hidden": true,
+    "order": 9
+  },
+  {
+    "title": "HTTP Response Behavior",
+    "file": "HTTP-response-basics.md",
+    "hidden": false,
+    "order": 12,
+    "parentDoc": "Behavior Expectations"
+  },
+  {
+    "title": "Rate Limits",
+    "file": "rate-limits-in-v3.md",
+    "hidden": false,
+    "order": 13,
+    "parentDoc": "Behavior Expectations"
+  },
+   {
+    "title": "USD Payment Flows via API",
+    "file": "usd-payments-flow.md",
+    "hidden": false,
+    "order": 14,
+    "parentDoc": "Behavior Expectations"
+  },
+  {
+    "title": "Time Zones and Dates",
+    "file": "time-blog.md",
+    "hidden":false,
+    "order": 15,
+    "parentDoc": "Behavior Expectations"
+  },
+   {
+    "title": "Idempotency",
+    "file": "sen-and-internal-idempotency.md",
+    "hidden": false,
+    "order": 16,
+    "parentDoc": "Behavior Expectations"
+  },
+  {
+    "title": "SEN Data Attribution",
+    "file": "sen-data-and-automated-attribution.md",
+    "hidden": false,
+    "order": 17,
+    "parentDoc": "Data Attribution"
+  },
+  {
+    "title": "Transaction Codes",
+    "file": "history-and-tran-codes.md",
+    "hidden": false,
+    "order": 18,
+    "parentDoc": "Data Attribution"
+  },
+  {
+    "title": "v2 and v3 Unique_id Options",
+    "file": "uniqueid-v2-v3-option.md",
+    "hidden": false,
+    "order": 19,
+    "parentDoc": "Data Attribution"
+  }, 
+  {
+    "title": "Payment Rejection and Return Reasons",
+    "file": "rejection-reason-explanation.md",
+    "hidden": false,
+    "order": 20,
+    "parentDoc": "Data Attribution"
+  },
+  {
+    "title": "FX Flows via API",
+    "file": "fx-flows-via-api.md",
+    "hidden": false,
+    "order": 21,
+    "parentDoc": "FX Endpoint Information"
+  }, 
+  {
+    "title": "Internal FX Trading",
+    "file": "internal-fx-guide.md",
+    "hidden": false,
+    "order": 22,
+    "parentDoc": "FX Endpoint Information"
+  },
+  {
+    "title": "Utilizing HATEOAS",
+    "file": "hateoas.md",
+    "hidden": false,
+    "order": 23,
+    "parentDoc": "FX Endpoint Information"
+  },
+ {
+    "title": "2023-Jan Changelog",
+    "file": "Jan-and-Feb-2023-Features.md",
+    "hidden": false,
+    "order": 24,
+    "parentDoc": "Changelog, New 2023"
+  },
+ {
+    "title": "ACH Data Attribution",
+    "file": "ACH-via-API.md",
+    "hidden": false,
+    "order": 25,
+    "parentDoc": "Data Attribution"
+  }
+]
