@@ -1,20 +1,5 @@
 <a name="readme-top"></a>
 
-## Random Knights Support Map
-
-This profile supports the refreshed Random Knights ecosystem from the QA and
-test-engineering side:
-
-- rand0m: public/root chat landing app.
-- knight1y: premium app with agents, history, favorites, and runtime tooling.
-- out1ine: oracle and lightweight future test app.
-- up10ad: creative render/upload tool.
-- c1assr00m: learning space for ecosystem practice.
-- e1even: practice track concept for 11 examples with 11 challenges each.
-- eng1neer: QA automation, test strategy, coverage, regression, and CI quality.
-- temp1ate: future template/scaffold productivity agent.
-- va1idat0r: future validation, review, consistency, and quality-gate agent.
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
