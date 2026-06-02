@@ -34,14 +34,16 @@
 
 **Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
 
-- 🌝 by Day 🏫 Agent of Change:
-  - 🦡 aut0mate `cypress run --group aut0mated-test`
-  - 🐈‍⬛ devel0per `int getRandomNumber() {Return 404;}`
-  - 🦫 eng1neer `#define TRUE FALSE`
-  - 🦝 expl0rer `Ctrl + Shift + Delete`
-  - 🐀 test1ng `result = experiment() ??`
-
-<small>\*\*names are pseudonyms; anonymity is requested\*\*</small>
+- 🌝 Dayi1y 🏫 Agent of Change:
+  - 🐿️ art1st `¯\_(ツ)_/¯`
+  - 🦥 ath1ete `run();`
+  - 🐈 auth0r `Once upon a while(true)...`
+  - 🦔 edit0r `Write-Output "Hello, $name!"`
+  - 🐾 navigat0r `Recalculating... again.`
+  - 🦫 eng1neer `Measure twice, deploy once.`
+  - 🐇 pr0ducer `#TODO: what am I doing here?`
+  - 🦨 recyc1er `rm -rf garbage/*`
+  - 🦊 sh0pper `if (sale) buy++;`
 
 <!-- RABBIT HOLE -->
 
