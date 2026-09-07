@@ -4,9 +4,7 @@
 <br />
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/random-knights/.github/blob/main/assets/ReadMe-Night.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/random-knights/.github/blob/main/assets/ReadMe-Day.png">
-    <img alt="Shows a Day/Night themed markedown image based on AM/PM." src="https://github.com/random-knights/.github/blob/main/assets/ReadMe-Night.png">
+    <img alt="qa-kitt" src="assets/qa-kitt.png">
   </picture>
 
 <h3 align="center" style="color:#ff4124">Random Knights, XYZ</h3>
