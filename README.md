@@ -7,7 +7,7 @@
     <img alt="qa-kitt" src="assets/qa-kitt.png">
   </picture>
 
-<h3 align="center" style="color:#ff4124">Random Knights, XYZ</h3>
+<h3 align="center" style="color:#ff4124">Random Knights</h3>
 
   <p align="center">
     randomly.engineering @ rand0m.ai
@@ -25,12 +25,12 @@
 
 ## <span style="color:#D8D8D8"><u> **ABOUT ME** </u></span>
 
-👋 I’m an Eng1neer, but you can call me Kitt! [randomly.engineering:](https://randomly.engineering) @random-knights
+👋 I’m an Eng1neer, but you can call me Kitt! [knightly.engineering:](https://knightly.engineering) @random-knights
 
-- 🖥️ Eng1eer @qa-kitt by Day 🌝 VCM and [Rand0m.AI](https://random.ai)
-- 💻 Deve10per @dev-kitt by Night 🌚 [Random Knights, XYZ](https://randomknights.xyz)
+- 🖥️ AI Eng1eer @qa-kitt by Day 🌝 
+- 💻 AI Deve10per @dev-kitt by Night 🌚 
 
-**Certified Scrum Master®, Automation Engineer, <span style="color:#FAAFA5">Daily</span> Software Quality Assurance Expert**, and **ɯ0puɐɹ <span style="color:#ad7a88">Knightly</span> deve10per** specializing in Automation Architecture, Test Strategy and Planning, Documentation, QA/TDD/BDD Methodologies with a strong focus in Product Design, Development & Engineering, Creativity and Critical-Thinking, Problem Solving, Cross-System Integrations, Agile/Scrum with full SDLC coverage.
+**ɯ0puɐɹ <span style="color:#ad7a88">dai1y</span> eng1neer** specializing in QA + AI.
 
 - 🌝 Dayi1y 🏫 Agent of Change:
   - 🐿️ art1st `¯\_(ツ)_/¯`
@@ -38,68 +38,12 @@
   - 🐈 auth0r `Once upon a while(true)...`
   - 🦔 edit0r `Write-Output "Hello, $name!"`
   - 🐾 navigat0r `Recalculating... again.`
-  - 🦫 eng1neer `Measure twice, deploy once.`
+  - 🦫 **eng1neer** `Measure twice, deploy once.`
   - 🐇 pr0ducer `#TODO: what am I doing here?`
   - 🦨 recyc1er `rm -rf garbage/*`
   - 🦊 sh0pper `if (sale) buy++;`
 
-<!-- RABBIT HOLE -->
-
-## <span style="color:#858585" name="rabbit-hole"> **AWARDS, SKILLS & HIGHLIGHTS** </span>
-
-Highly organized and detail-oriented Senior QA Engineer with a proven track record in designing, developing,
-automating, and executing test plans within CI/CD workflows across Desktop, Web, Mobile, API, Database,
-Performance, and Hardware/Firmware testing. Versatile in adapting to project-specific tooling and languages,
-with a strong sense of ownership and collaboration within global, distributed teams. Skilled in high-quality
-release train engineering using Agile/Scrum and BDD frameworks to deliver consistent results.
-
-### **Certifications & Training** (2015-PRESENT)
-
-👑 Software QA Engineer | Test Automation 12+YRS
-
-- in **Global Carbon Trading Markets** | 2023-Now
-- in Crypto Trading Markets | 2021-2023
-- in C-Store Service Industry | 2019-2021
-- in Commodities Trading Markets | 2015-2019
-- in QS-Restaurant Service Industry | 2014-2015
-
----
-
-- **ScrumAlliance®** — Certified Scrum Master (CSM®) _(2020–Present)_
-- **HarvardX / MIT** — CS50: Introduction to Computer Science
-- **Deque University** — Web Accessibility Curriculum 2.0 (IAAP) · ADA Certified Training
-- **SmartBear Community**
-  - 3× Leader of the Quarter _(’22 Q3 · ’22 Q4 · ’23 Q1)_
-  - 2022 Hero Nominee
-- **SmartBear Academy** — #4 Worldwide Leaderboard _(2023)_\*\*
-- **SmartBear Certifications**
-  - TestComplete · Zephyr · Swagger · ReadyAPI · Bugsnag · CucumberStudio · LoadNinja
-- **Coursera Certificates**
-  - Python · ARCore · Git/GitHub · Python with OS Interaction
-- **Programming Hub**
-  - Python _(x5: Core, Advanced, ML, AI)_
-  - Django · Flask · Computer Vision · Flutter · Dart
-
-<small>\*\*record previously held</small>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- WORKFLOWS -->
-
-## <span style="color:#FAAFA5" name="workflows"><u> **WORKFLOWS** </u></span>
-
-**Xray <> Cucumber** <small>demo only</small>
-
-```mermaid
-graph LR
-A[ID Manual Tests for Automation in Jira] --> B
-B[Convert to Cucumber Tests in Jira] --> C
-C[Export Cucumber Feature files from Jira] --> D
-D[Impliment Step Definitions in Cypress] --> E
-E[Execute Cypress tests in CI environment] --> F[Report automation results to Jira]
-```
-
-<small>\*\*implimentation details coming soon</small>
+<small>\*\*names are pseudonyms; anonymity is requested\*\*</small>
 
 ## <span style="color:#858585"><u> **WORKSPACE** </u></span>
 
